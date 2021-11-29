@@ -7,7 +7,7 @@ install_truffle:
 
 
 install_deps:
-		npm instal
+		npm install
 
 
 
